@@ -3035,7 +3035,7 @@ header.header-fixed {
 }
 header.header-3 {
   border-bottom: none;
-  background: #2bb573;
+  background: #275b40;
 }
 @media (max-width: 1199px) {
   header.header-3 {
@@ -3082,7 +3082,7 @@ header.header-3 .header-top-area .left li:first-child {
   border-color: #e5e5e547;
 }
 header.header-3 .header-bottom {
-  background: #8dc63f;
+  background: #90c644;
 }
 @media (min-width: 1200px) {
   header.header-3 .header-bottom {
